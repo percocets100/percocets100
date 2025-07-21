@@ -3,7 +3,7 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=percocests100&show_icons=true&locale=en&layout=compact" alt="DeathAruban" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathAruban&show_icons=true&locale=en" alt="DeathAruban" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=percocets100&show_icons=true&locale=en" alt="DeathAruban" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=percocets100&theme=dark&hide_border=false)
 
